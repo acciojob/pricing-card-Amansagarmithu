@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+img{
+	margin-top:10%;
+	width:70%;
+}
+div{
+	background-color:rgb(241,241,241);
+	text-align: center;
+	width:40%;
+	height:77vh;
+}
+p{
+	margin-left:20%;
+	margin-right:20%;
+}
+.btn{
+	background-color:rgb(254,98,90);
+	color:white;
+	padding:10px;
+	width:40%;
+	border:1px solid rgb(254,98,90);
+	border-radius:10px;
+}
